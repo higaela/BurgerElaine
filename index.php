@@ -2,7 +2,7 @@
 Burger do Zé
 
 
-Este site está sendo desenvolvido por Elaine Kelly
+<br>Este site está sendo desenvolvido por Elaine Kelly<\br>
 Treinamento GamaAcademy Turma 15A
 
 É um teste para aprender a desenvolver
